@@ -18,3 +18,15 @@ to  vendo ai
 }    
     código está dando "erro", ao  executar o comando, apenas o número 66 aparece, o resultado deveria ser 100 (a média) 
     66 + 62 + 246 + 26 = 400/4 = 100 (media)
+Código  areaxbase girotto
+#include <stdio.h> 
+int main (){ 
+float altura ; 
+scanf("%f" , &altura); 
+float base ; 
+scanf ("%f" , &base); 
+float area; 
+area = base*altura; 
+printf("area : %f\n" , area);
+
+return 0; }
