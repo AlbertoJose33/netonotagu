@@ -49,5 +49,22 @@ scanf ("%f" , &base);
 float area; 
 area = base*altura; 
 printf("area : %f\n" , area);
-
+ 
 return 0; }
+
+
+
+
+QUESTAO AULA 03.03.26 
+(TERMINAR)
+#include <stdio.h>
+int main(){
+	float a, b;
+	printf("Digite o valor de A: ");
+	scanf("%f", &a);
+	printf("Digite o valor de B: ");
+	scanf("%f", &b);
+	float (a + b);
+	
+    return 0;
+}
